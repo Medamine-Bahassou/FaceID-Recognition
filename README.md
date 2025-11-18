@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./logo.png" width="250" />
+</div>
+
+
 # Système de Reconnaissance Faciale en Temps Réel
 
 Ce projet est une application Python permettant d'identifier des personnes en temps réel à partir d'un flux vidéo (webcam). Le système compare les visages détectés à une base de données d'images pré-enregistrées, et ce, de manière évolutive pour gérer un grand nombre d'identités.
